@@ -5,4 +5,4 @@
 ## Getx as statemangment
 ## GetStorge
 ## Dio for posting & getting Apis
-## MVC design pattern to help understanding and modifying the code 
+## MVC design pattern to help understand and modify the code 
